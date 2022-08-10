@@ -27,10 +27,10 @@ public class Pessoa {
 	}
 
 
-	public int getId (int idade){
+	public int getIdade (){
 		return idade;
 	}
-	public void setId(int idade){
+	public void setIdade(int idade){
 		this.idade = idade;
 	}
 	public String getNome(){
